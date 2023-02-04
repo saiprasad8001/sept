@@ -1,0 +1,4 @@
+hello good morning
+how are  you 
+iam a sample file
+in the git folder
